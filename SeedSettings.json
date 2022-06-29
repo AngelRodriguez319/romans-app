@@ -1,0 +1,8 @@
+{
+  "extend": {
+    "actions": []
+  },
+  "platform": "reactjs",
+  "project_description": "This repository holds the source code of Roman numbers",
+  "project_name": "Roman numbers"
+}
